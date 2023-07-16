@@ -1,4 +1,6 @@
 # timer-app
+シンプルなストップウォッチアプリです。
+
 以下のURLから使用することができます。
 
 https://haru-330.github.io/timer-app/
